@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Donyea, and I love building things that make a
 ## 🌱 Currently Learning
 - Advanced **Flutter** concepts
 - **OpenAI Codex** integration for automating code generation
-- Building and scaling **real-time applications** with Firebase
+- Building and scaling **real-time applications** with AWS
 
 ## 🤝 Let's Collaborate!
 I'm always open to collaboration on interesting projects, especially if they're related to:
